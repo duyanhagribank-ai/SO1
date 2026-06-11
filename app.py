@@ -14,8 +14,8 @@ from imblearn.over_sampling import SMOTE
 # 1. CẤU HÌNH TRANG STREAMLIT ĐẦU TIÊN
 st.set_page_config(
     layout="wide",
-    page_title="Hệ Thống Phát Hiện Giao Dịch Gian Lận",
-    page_icon="🛡️"
+    page_title="Hệ Thống Phát Hiện Giao Dịch Gian Lận tại Agribank",
+    page_icon="❤❤❤❤"
 )
 
 # 2. HÀM NẠP DỮ LIỆU DÙNG CHUNG CÓ CACHE
